@@ -1,4 +1,4 @@
-This is a fun side project called Bingo (yes, like the game bingo). To play this game you either need paper or to imagine numbers in your head and write it off when you see it. This game can be played with multiple people.  if you need further explaination on how the game works, here is a link to explain it ![link](https://www.britannica.com/topic/bingo-game-of-chance) 
+This is a fun side project called Bingo (yes, like the game bingo). To play this game you either need paper or to imagine numbers in your head and write it off when you see it. This game can be played with multiple people.  if you need further explaination on how the game works, here is a link to explain it https://www.britannica.com/topic/bingo-game-of-chance
 
 Here is how the game works
 - On the left side is the numbers that haven't been picked. At the start of the match there are 90 numbers (from 1 to 90).
